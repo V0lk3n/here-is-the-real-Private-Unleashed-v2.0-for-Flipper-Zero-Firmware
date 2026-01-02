@@ -66,3 +66,8 @@ Mazda
 ✅ Jaguar (UP TO 2016 MODELS)
 
 ✅ VOLKSWAGEN (UP TO 2024 MODELS) | Amarok | Golf 4, 5, 5+ | LT | Suran | | Beetle | Jetta | Lupo | Tiguan | | Bora | Multivan | Passat B5–CC | Touran | | Caddy | Polo | Scirocco | Transp
+
+<img width="804" height="426" alt="Image" src="https://github.com/user-attachments/assets/529dd8c9-b0b2-49e4-b58b-679bb90eb8e3" />
+<img width="798" height="426" alt="Image" src="https://github.com/user-attachments/assets/8187ffa1-0737-4a7b-91f4-3a5c2dbcb96f" />
+<img width="790" height="411" alt="Image" src="https://github.com/user-attachments/assets/29177567-f763-478c-b6fb-9fda76f99eed" />
+<img width="776" height="350" alt="Image" src="https://github.com/user-attachments/assets/189f43cc-2f23-4ba8-9927-3a211e02e8cc" />
