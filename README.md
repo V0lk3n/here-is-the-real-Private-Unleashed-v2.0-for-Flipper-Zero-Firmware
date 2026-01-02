@@ -4,7 +4,7 @@ Private Unleashed v2.0 for Flipper Zero Firmware
       keeloq_mfcodes this one should be in the sub ghz folder and in the assets folder
       setting_user this one should be in the sub ghz folder and in the assets folder
       key.fz this should be on the front of the sd card
-
+      this one should be downloaded at the end on Flipper Zero it is firmware.dfu
 
 Rolling Code Exploitation
 
