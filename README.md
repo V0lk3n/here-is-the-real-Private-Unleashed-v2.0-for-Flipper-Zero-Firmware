@@ -4,7 +4,7 @@ Private Unleashed v2.0 for Flipper Zero Firmware
 
 Rolling Code Exploitation
 
-This assumes you are already running unleashed firmware 080+
+This assumes you are already running unleashed firmware 080+ for the new one unleashed firmware 084
 
 I highly suggest you use the flipper build tool to flash to the updated firmware, however feel free to use qflipper if you find you're not savvy enough.
 
